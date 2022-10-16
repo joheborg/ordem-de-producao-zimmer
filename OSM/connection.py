@@ -1,4 +1,4 @@
-local = '192.168.114.199'
-nome = 'jona'
-senha = 'passpass'
-banco = 'osm'
+local = 'xxx.xxx.xxx.xxx'
+nome = 'adm'
+senha = 'xxx'
+banco = 'banco'
